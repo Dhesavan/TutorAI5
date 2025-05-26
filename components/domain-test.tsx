@@ -17,7 +17,7 @@ const domainOptions = [
   "System Design",
   "Web Development",
   "Cloud Computing",
-  "DevOps Basics",
+  "DevOps",
   "Cybersecurity"
 ]
 
@@ -552,7 +552,7 @@ const staticQuestions: Record<string, Record<Difficulty, { question: string, opt
       }
     ]
   },
-  "DevOps Basics": {
+  "DevOps": {
     easy: [
       {
         question: "What does CI/CD stand for?",

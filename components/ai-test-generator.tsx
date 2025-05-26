@@ -56,7 +56,7 @@ export function AITestGenerator({ userId }: AITestGeneratorProps) {
     "System Design",
     "Web Development",
     "Cloud Computing",
-    "DevOps Basics",
+    "DevOps",
     "Cybersecurity",
     "Machine Learning Basics",
   ]
